@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a Fullstack Developer.
-- 🌱 I’m currently learning Front-end and Back-end with JAVA, Structured QUERY Language (SQL), HTML + CSS + JAVASCRIPT: HTML5, CSS3, BOOTSTRAP, DOM.
+- 🌱 I’m currently learning Front-end and Back-end with JAVA, Structured QUERY Language (SQL), HTML + CSS + JAVASCRIPT, REACT, DOM.
 - 😄 Pronouns: she / her
 
 ##
