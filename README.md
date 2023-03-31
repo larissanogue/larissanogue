@@ -6,8 +6,6 @@
 
 ##
 
-<img align="right" alt="Lari-pic" width=16% height=16% style="border-radius:50px;" 
-src="https://media2.giphy.com/media/t40qBXY7xMpTKGfEOp/giphy.gif?cid=790b76113dbf3bdb2c65385e48fa46d82bf1f007a2db9b66&rid=giphy.gif&ct=g">
 <div>
 <div align="center">
   <a href="https://github.com/nogueirarissa">
